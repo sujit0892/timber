@@ -1,11 +1,14 @@
 ﻿  timber.cpp
-c:\users\sujit\documents\game\timber\timber\timber.cpp(87): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\sujit\documents\game\timber\timber\timber.cpp(90): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\sujit\documents\game\timber\timber\timber.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\sujit\documents\game\timber\timber\timber.cpp(110): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\sujit\documents\game\timber\timber\timber.cpp(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\sujit\documents\game\timber\timber\timber.cpp(131): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\sujit\documents\game\timber\timber\timber.cpp(148): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\sujit\documents\game\timber\timber\timber.cpp(151): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(264): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(298): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(371): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(374): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(402): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(406): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(433): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(437): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(464): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(468): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\sujit\documents\game\timber\timber\timber.cpp(498): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   timber.vcxproj -> C:\Users\sujit\Documents\game\timber\Debug\timber.exe
   timber.vcxproj -> C:\Users\sujit\Documents\game\timber\Debug\timber.pdb (Partial PDB)
